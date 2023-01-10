@@ -26,7 +26,7 @@ If it is working fine, then its great. You have saved yourself a half-day of com
 
 ### Creating Circuit
 
-The `mnistmodel.circom` has the implementation of the a simple CNN model and `input.json` has the information input image and model weights.
+The `mnistmodel.circom` has the implementation of the a simple CNN model and `input.json` has the information of input image and model weights.
 
 Compile the circuit using
 
