@@ -62,7 +62,7 @@ To generate proof run
 snarkjs plonk prove circuit_final.zkey witness.wtns proof.json public.json
 ```
 
-### Verify the Generated Proof
+### Verify the generated Proof
 To verify the computation run
 ```sh
 snarkjs plonk verify verification_key.json public.json proof.json
