@@ -20,7 +20,7 @@ The one I generated: [GeneratedPtauFinal.ptau](https://drive.google.com/file/d/1
 
 Verify the downloaded `ptau` file
 ```sh
-snarkjs powersoftau verify pot12_final.ptau
+snarkjs powersoftau verify GeneratedPtauFinal.ptau
 ```
 If it is working fine, then its great. You have saved yourself a half-day of computation.
 
